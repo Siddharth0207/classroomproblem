@@ -1,0 +1,666 @@
+[
+    {
+        "lecturer_id": 5361519,
+        "lecture_title": "Band - High ",
+        "lecture_code": "ARTBND",
+        "length": 2,
+        "start_term": 1,
+        "section_number": 1
+    },
+    {
+        "lecturer_id": 5361487,
+        "lecture_title": "Chorus - High ",
+        "lecture_code": "ARTChor",
+        "length": 2,
+        "start_term": 1,
+        "section_number": 1
+    },
+    {
+        "lecturer_id": 5361415,
+        "lecture_title": "Drawing and Painting",
+        "lecture_code": "ARTDRAW",
+        "length": 2,
+        "start_term": 1,
+        "section_number": 1
+    },
+    {
+        "lecturer_id": 5361415,
+        "lecture_title": "Studio Art I",
+        "lecture_code": "ARTSTD1",
+        "length": 1,
+        "start_term": 1,
+        "section_number": 1
+    },
+    {
+        "lecturer_id": 5361415,
+        "lecture_title": "Studio Art II",
+        "lecture_code": "ARTSTD2",
+        "length": 1,
+        "start_term": 2,
+        "section_number": 1
+    },
+    {
+        "lecturer_id": 5361400,
+        "lecture_title": "Bible 10",
+        "lecture_code": "BIB10",
+        "length": 2,
+        "start_term": 1,
+        "section_number": 1
+    },
+    {
+        "lecturer_id": 5361400,
+        "lecture_title": "Bible 10",
+        "lecture_code": "BIB10",
+        "length": 2,
+        "start_term": 1,
+        "section_number": 2
+    },
+    {
+        "lecturer_id": 5361417,
+        "lecture_title": "Bible 11",
+        "lecture_code": "BIB11",
+        "length": 2,
+        "start_term": 1,
+        "section_number": 1
+    },
+    {
+        "lecturer_id": 5361417,
+        "lecture_title": "Bible 11",
+        "lecture_code": "BIB11",
+        "length": 2,
+        "start_term": 1,
+        "section_number": 2
+    },
+    {
+        "lecturer_id": 5361454,
+        "lecture_title": "Bible 12",
+        "lecture_code": "BIB12",
+        "length": 2,
+        "start_term": 1,
+        "section_number": 1
+    },
+    {
+        "lecturer_id": 5361454,
+        "lecture_title": "Bible 12",
+        "lecture_code": "BIB12",
+        "length": 2,
+        "start_term": 1,
+        "section_number": 2
+    },
+    {
+        "lecturer_id": 5361454,
+        "lecture_title": "Bible 9",
+        "lecture_code": "BIB9",
+        "length": 2,
+        "start_term": 1,
+        "section_number": 1
+    },
+    {
+        "lecturer_id": 5361400,
+        "lecture_title": "Bible 9",
+        "lecture_code": "BIB9",
+        "length": 2,
+        "start_term": 1,
+        "section_number": 2
+    },
+    {
+        "lecturer_id": 5361498,
+        "lecture_title": "Dual Enrollment Biology 101",
+        "lecture_code": "DEBIO101",
+        "length": 1,
+        "start_term": 1,
+        "section_number": 1
+    },
+    {
+        "lecturer_id": 5361498,
+        "lecture_title": "Dual Enrollment Chemistry 105",
+        "lecture_code": "DECHEM105",
+        "length": 1,
+        "start_term": 2,
+        "section_number": 1
+    },
+    {
+        "lecturer_id": 5361474,
+        "lecture_title": "Dual Enrollment English 101",
+        "lecture_code": "DEENG101",
+        "length": 1,
+        "start_term": 2,
+        "section_number": 1
+    },
+    {
+        "lecturer_id": 5361474,
+        "lecture_title": "Dual Enrollment English 151",
+        "lecture_code": "DEENG151",
+        "length": 1,
+        "start_term": 1,
+        "section_number": 1
+    },
+    {
+        "lecturer_id": 5361457,
+        "lecture_title": "Dual Enrollment Intro. to Teaching 201",
+        "lecture_code": "DEITCHG",
+        "length": 1,
+        "start_term": 2,
+        "section_number": 1
+    },
+    {
+        "lecturer_id": 5361457,
+        "lecture_title": "Dual Enrollment Intro. to Psych. 101",
+        "lecture_code": "DESOCIP",
+        "length": 1,
+        "start_term": 1,
+        "section_number": 1
+    },
+    {
+        "lecturer_id": 5361422,
+        "lecture_title": "Dual Enrollment World Civ. 151",
+        "lecture_code": "DESOCWCIV2",
+        "length": 1,
+        "start_term": 2,
+        "section_number": 1
+    },
+    {
+        "lecturer_id": 5361422,
+        "lecture_title": "Dual Enrollment World Civ. 101",
+        "lecture_code": "DEWCIV1",
+        "length": 1,
+        "start_term": 1,
+        "section_number": 1
+    },
+    {
+        "lecturer_id": 5361474,
+        "lecture_title": "English 10",
+        "lecture_code": "ENG10",
+        "length": 2,
+        "start_term": 1,
+        "section_number": 1
+    },
+    {
+        "lecturer_id": 5361474,
+        "lecture_title": "English 10 Honors",
+        "lecture_code": "ENG10H",
+        "length": 2,
+        "start_term": 1,
+        "section_number": 1
+    },
+    {
+        "lecturer_id": 5322089,
+        "lecture_title": "American Literature",
+        "lecture_code": "ENG11",
+        "length": 2,
+        "start_term": 1,
+        "section_number": 1
+    },
+    {
+        "lecturer_id": 5361474,
+        "lecture_title": "American Literature Honors",
+        "lecture_code": "ENG11AMLTH-",
+        "length": 1,
+        "start_term": 1,
+        "section_number": 1
+    },
+    {
+        "lecturer_id": 5361474,
+        "lecture_title": "World Literature",
+        "lecture_code": "ENG12WORLD",
+        "length": 2,
+        "start_term": 1,
+        "section_number": 1
+    },
+    {
+        "lecturer_id": 5361474,
+        "lecture_title": "World Literature Honors",
+        "lecture_code": "ENG12WORLDH",
+        "length": 1,
+        "start_term": 2,
+        "section_number": 1
+    },
+    {
+        "lecturer_id": 5322089,
+        "lecture_title": "English 9",
+        "lecture_code": "ENG9",
+        "length": 2,
+        "start_term": 1,
+        "section_number": 1
+    },
+    {
+        "lecturer_id": 5322089,
+        "lecture_title": "English 9 Honors",
+        "lecture_code": "ENG9H",
+        "length": 2,
+        "start_term": 1,
+        "section_number": 1
+    },
+    {
+        "lecturer_id": 5322089,
+        "lecture_title": "Speech Communications",
+        "lecture_code": "ENGSPCH",
+        "length": 1,
+        "start_term": 2,
+        "section_number": 1
+    },
+    {
+        "lecturer_id": 5361400,
+        "lecture_title": "Faith & Film",
+        "lecture_code": "FAF",
+        "length": 1,
+        "start_term": 1,
+        "section_number": 1
+    },
+    {
+        "lecturer_id": 5361400,
+        "lecture_title": "Faith & Film",
+        "lecture_code": "FAF",
+        "length": 1,
+        "start_term": 2,
+        "section_number": 2
+    },
+    {
+        "lecturer_id": 5361461,
+        "lecture_title": "Financial Literacy",
+        "lecture_code": "FINLIT",
+        "length": 1,
+        "start_term": 1,
+        "section_number": 1
+    },
+    {
+        "lecturer_id": 5361461,
+        "lecture_title": "Financial Literacy",
+        "lecture_code": "FINLIT",
+        "length": 1,
+        "start_term": 2,
+        "section_number": 2
+    },
+    {
+        "lecturer_id": 5361540,
+        "lecture_title": "Spanish I",
+        "lecture_code": "LANSP1",
+        "length": 2,
+        "start_term": 1,
+        "section_number": 1
+    },
+    {
+        "lecturer_id": 5361540,
+        "lecture_title": "Spanish I",
+        "lecture_code": "LANSP1",
+        "length": 2,
+        "start_term": 1,
+        "section_number": 2
+    },
+    {
+        "lecturer_id": 5361540,
+        "lecture_title": "Spanish II",
+        "lecture_code": "LANSP2",
+        "length": 2,
+        "start_term": 1,
+        "section_number": 1
+    },
+    {
+        "lecturer_id": 5361540,
+        "lecture_title": "Spanish II",
+        "lecture_code": "LANSP2",
+        "length": 2,
+        "start_term": 1,
+        "section_number": 2
+    },
+    {
+        "lecturer_id": 5361540,
+        "lecture_title": "Spanish III",
+        "lecture_code": "LANSP3",
+        "length": 2,
+        "start_term": 1,
+        "section_number": 1
+    },
+    {
+        "lecturer_id": 5361526,
+        "lecture_title": "Algebra 1",
+        "lecture_code": "MATALG1",
+        "length": 2,
+        "start_term": 1,
+        "section_number": 1
+    },
+    {
+        "lecturer_id": 5361526,
+        "lecture_title": "Algebra 1 Honors",
+        "lecture_code": "MATALG1H",
+        "length": 2,
+        "start_term": 1,
+        "section_number": 1
+    },
+    {
+        "lecturer_id": 5361380,
+        "lecture_title": "Algebra II",
+        "lecture_code": "MATALG2",
+        "length": 2,
+        "start_term": 1,
+        "section_number": 1
+    },
+    {
+        "lecturer_id": 5361420,
+        "lecture_title": "Algebra II",
+        "lecture_code": "MATALG2",
+        "length": 2,
+        "start_term": 1,
+        "section_number": 2
+    },
+    {
+        "lecturer_id": 5407259,
+        "lecture_title": "Alg II Honors",
+        "lecture_code": "MATALG2H",
+        "length": 2,
+        "start_term": 1,
+        "section_number": 1
+    },
+    {
+        "lecturer_id": 5361412,
+        "lecture_title": "AP Calculus A/B",
+        "lecture_code": "MATAPCALCAB",
+        "length": 2,
+        "start_term": 1,
+        "section_number": 1
+    },
+    {
+        "lecturer_id": 5361412,
+        "lecture_title": "Dual Enrollment Statistics 152",
+        "lecture_code": "MATDESTATS",
+        "length": 1,
+        "start_term": 2,
+        "section_number": 1
+    },
+    {
+        "lecturer_id": 5407259,
+        "lecture_title": "Geometry",
+        "lecture_code": "MATGEOM",
+        "length": 2,
+        "start_term": 1,
+        "section_number": 2
+    },
+    {
+        "lecturer_id": 5407259,
+        "lecture_title": "Geometry Honors",
+        "lecture_code": "MATGEOMH",
+        "length": 2,
+        "start_term": 1,
+        "section_number": 1
+    },
+    {
+        "lecturer_id": 5361412,
+        "lecture_title": "Trig/Algebra III",
+        "lecture_code": "MATHALGIII",
+        "length": 2,
+        "start_term": 1,
+        "section_number": 1
+    },
+    {
+        "lecturer_id": 5361412,
+        "lecture_title": "Statistics Honors",
+        "lecture_code": "MATHSTATSH",
+        "length": 1,
+        "start_term": 1,
+        "section_number": 1
+    },
+    {
+        "lecturer_id": 5361412,
+        "lecture_title": "Trig/PreCalculus",
+        "lecture_code": "MATTRIG",
+        "length": 2,
+        "start_term": 1,
+        "section_number": 1
+    },
+    {
+        "lecturer_id": 5361412,
+        "lecture_title": "Trig/Pre-Calculus Hon",
+        "lecture_code": "MATTrigH",
+        "length": 2,
+        "start_term": 1,
+        "section_number": 1
+    },
+    {
+        "lecturer_id": 5361411,
+        "lecture_title": "Health - High ",
+        "lecture_code": "PEHealthHS",
+        "length": 1,
+        "start_term": 1,
+        "section_number": 2
+    },
+    {
+        "lecturer_id": 5361411,
+        "lecture_title": "Health - High ",
+        "lecture_code": "PEHealthHS",
+        "length": 1,
+        "start_term": 2,
+        "section_number": 1
+    },
+    {
+        "lecturer_id": 5361411,
+        "lecture_title": "Health - High ",
+        "lecture_code": "PEHealthHS",
+        "length": 1,
+        "start_term": 2,
+        "section_number": 3
+    },
+    {
+        "lecturer_id": 5361411,
+        "lecture_title": "Physical Education - High ",
+        "lecture_code": "PEHS",
+        "length": 1,
+        "start_term": 1,
+        "section_number": 1
+    },
+    {
+        "lecturer_id": 5361411,
+        "lecture_title": "Physical Education - High ",
+        "lecture_code": "PEHS",
+        "length": 1,
+        "start_term": 2,
+        "section_number": 2
+    },
+    {
+        "lecturer_id": 5361411,
+        "lecture_title": "Personal Fitness",
+        "lecture_code": "PEPF",
+        "length": 1,
+        "start_term": 1,
+        "section_number": 1
+    },
+    {
+        "lecturer_id": 5361498,
+        "lecture_title": "Anatomy & Physiology",
+        "lecture_code": "SCIANATPH",
+        "length": 1,
+        "start_term": 1,
+        "section_number": 1
+    },
+    {
+        "lecturer_id": 5361409,
+        "lecture_title": "Biology",
+        "lecture_code": "SCIBIO",
+        "length": 2,
+        "start_term": 1,
+        "section_number": 1
+    },
+    {
+        "lecturer_id": 5361409,
+        "lecture_title": "Biology Honors",
+        "lecture_code": "SCIBIOH",
+        "length": 2,
+        "start_term": 1,
+        "section_number": 1
+    },
+    {
+        "lecturer_id": 5361498,
+        "lecture_title": "Chemistry Honors",
+        "lecture_code": "SCICHEM10H",
+        "length": 2,
+        "start_term": 1,
+        "section_number": 1
+    },
+    {
+        "lecturer_id": 5361498,
+        "lecture_title": "Chemistry Honors",
+        "lecture_code": "SCICHEM10H",
+        "length": 2,
+        "start_term": 1,
+        "section_number": 2
+    },
+    {
+        "lecturer_id": 5361409,
+        "lecture_title": "Earth and Space Science",
+        "lecture_code": "SCIERTH",
+        "length": 2,
+        "start_term": 1,
+        "section_number": 1
+    },
+    {
+        "lecturer_id": 5361409,
+        "lecture_title": "Earth and Space Science",
+        "lecture_code": "SCIERTH",
+        "length": 2,
+        "start_term": 1,
+        "section_number": 2
+    },
+    {
+        "lecturer_id": 5361526,
+        "lecture_title": "Marine Biology",
+        "lecture_code": "SCIMABIO",
+        "length": 1,
+        "start_term": 2,
+        "section_number": 1
+    },
+    {
+        "lecturer_id": 5361526,
+        "lecture_title": "Physical Science",
+        "lecture_code": "SCIPHY",
+        "length": 2,
+        "start_term": 1,
+        "section_number": 1
+    },
+    {
+        "lecturer_id": 5361492,
+        "lecture_title": "American Government & Politics",
+        "lecture_code": "SOC10GOV",
+        "length": 2,
+        "start_term": 1,
+        "section_number": 1
+    },
+    {
+        "lecturer_id": 5361492,
+        "lecture_title": "American Government & Politics",
+        "lecture_code": "SOC10GOV",
+        "length": 2,
+        "start_term": 1,
+        "section_number": 2
+    },
+    {
+        "lecturer_id": 5361492,
+        "lecture_title": "American Government & Politics Honors",
+        "lecture_code": "SOC10GOVH",
+        "length": 2,
+        "start_term": 1,
+        "section_number": 1
+    },
+    {
+        "lecturer_id": 5361461,
+        "lecture_title": "World History",
+        "lecture_code": "SOC11",
+        "length": 2,
+        "start_term": 1,
+        "section_number": 1
+    },
+    {
+        "lecturer_id": 5361492,
+        "lecture_title": "US History",
+        "lecture_code": "SOC9",
+        "length": 2,
+        "start_term": 1,
+        "section_number": 1
+    },
+    {
+        "lecturer_id": 5361492,
+        "lecture_title": "US History",
+        "lecture_code": "SOC9",
+        "length": 2,
+        "start_term": 1,
+        "section_number": 2
+    },
+    {
+        "lecturer_id": 5322089,
+        "lecture_title": "Introduction to Business",
+        "lecture_code": "SOCIB",
+        "length": 1,
+        "start_term": 1,
+        "section_number": 1
+    },
+    {
+        "lecturer_id": 5361516,
+        "lecture_title": "Advanced Robotics",
+        "lecture_code": "TECHADVROB",
+        "length": 2,
+        "start_term": 1,
+        "section_number": 1
+    },
+    {
+        "lecturer_id": 5361516,
+        "lecture_title": "Digital Imaging & Editing",
+        "lecture_code": "TECHDIGIT",
+        "length": 1,
+        "start_term": 1,
+        "section_number": 1
+    },
+    {
+        "lecturer_id": 5361516,
+        "lecture_title": "Graphic Design",
+        "lecture_code": "TECHGRAPHIC",
+        "length": 1,
+        "start_term": 2,
+        "section_number": 1
+    },
+    {
+        "lecturer_id": 5361516,
+        "lecture_title": "Graphic Design",
+        "lecture_code": "TECHGRAPHIC",
+        "length": 1,
+        "start_term": 2,
+        "section_number": 2
+    },
+    {
+        "lecturer_id": 5396676,
+        "lecture_title": "Yearbook",
+        "lecture_code": "TECHYEAR",
+        "length": 2,
+        "start_term": 1,
+        "section_number": 1
+    },
+    {
+        "lecturer_id": 5361411,
+        "lecture_title": "Recreational Sports",
+        "lecture_code": "PERS",
+        "length": 1,
+        "start_term": 2,
+        "section_number": 1
+    },
+    {
+        "lecturer_id": 5361498,
+        "lecture_title": "Physics Honors",
+        "lecture_code": "SCIPHYH",
+        "length": 2,
+        "start_term": 1,
+        "section_number": 1
+    },
+    {
+        "lecturer_id": 5361516,
+        "lecture_title": "AP Computer Science",
+        "lecture_code": "APComp",
+        "length": 2,
+        "start_term": 1,
+        "section_number": 1
+    },
+    {
+        "lecturer_id": 5322089,
+        "lecture_title": "Journalism",
+        "lecture_code": "ENGJOUR",
+        "length": 2,
+        "start_term": 1,
+        "section_number": 1
+    }
+]
